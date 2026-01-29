@@ -1,0 +1,85 @@
+Airport
+Hospital
+School
+College
+University
+Library
+Museum
+Temple
+Church
+Mosque
+Park
+Playground
+Garden
+Zoo
+Beach
+River
+Mountain
+Forest
+Desert
+Village
+City
+Town
+Market
+Mall
+Shop
+Restaurant
+Hotel
+Café
+Theater
+Cinema
+Stadium
+Gym
+Office
+Factory
+Warehouse
+Bank
+ATM
+Post Office
+Police Station
+Fire Station
+Court
+Prison
+Bus Stop
+Railway Station
+Metro Station
+Bus
+Train
+Car
+Bicycle
+Motorcycle
+Ship
+Boat
+Bridge
+Road
+Highway
+Tunnel
+Building
+House
+Apartment
+Room
+Kitchen
+Bedroom
+Bathroom
+Balcony
+Table
+Chair
+Sofa
+Bed
+Cupboard
+Shelf
+Mirror
+Clock
+Television
+Computer
+Laptop
+Mobile Phone
+Tablet
+Printer
+Camera
+Book
+Notebook
+Pen
+Pencil
+Bag
+Bottle
